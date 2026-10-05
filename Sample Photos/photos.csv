@@ -1,0 +1,5 @@
+photo_id,file_name,date_taken,location,people,scene_labels,ocr_text,album_or_event
+P001,P001.jpg,2024-12-22,Goa,"","cafe|beige|outdoor","SOSAS",Goa Trip 2024
+P002,P002.jpg,2024-12-23,Goa,"","blue|building|outdoor","CASA LUSITANA",Goa Trip 2024
+P003,P003.jpg,2024-12-24,Goa,"User_Father","hotel|outdoor","Happy birthday",Goa Trip 2024
+P004,P004.jpg,2025-02-14,Bengaluru,"User|Friend_G","cafe|indoor","Happy birthday",Birthday dinner
