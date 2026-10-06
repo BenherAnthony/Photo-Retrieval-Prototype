@@ -1,0 +1,2006 @@
+[
+  {
+    "photo_id": "P001",
+    "description": "A street-level view of a vibrant row of colonial-style buildings with tiled roofs and colorful facades, featuring a balcony with potted plants. Below, cars and motorcycles travel along a paved road.",
+    "location": "",
+    "objects": [
+      "buildings",
+      "balconies",
+      "potted plants",
+      "tiled roofs",
+      "cars",
+      "motorcycles",
+      "street light",
+      "railings",
+      "trees"
+    ],
+    "people": [
+      "motorcyclists",
+      "a person standing on a balcony"
+    ],
+    "scene": "An outdoor urban street scene during the day.",
+    "location_clues": [
+      "colonial architecture",
+      "terracotta tiled roof",
+      "colorful building facade",
+      "signage reading 'SOSAS'",
+      "signage reading 'BINA PUNJANI'",
+      "signage reading 'Union Bank'"
+    ],
+    "text_visible": [
+      "SOSAS",
+      "BINA PUNJANI",
+      "Union Bank",
+      "VIDEOCON",
+      "GA 07 E 4982"
+    ],
+    "activities": [
+      "driving cars",
+      "riding motorcycles",
+      "standing on a balcony"
+    ],
+    "search_terms": [
+      "colonial style buildings",
+      "colorful street scene",
+      "motorcycles on road",
+      "tiled roof architecture",
+      "balcony with plants"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P002",
+    "description": "A street scene showing a row of colorful colonial-style buildings painted yellow, blue, green, and orange, with traditional clay tile roofs and a scooter parked on the sidewalk.",
+    "location": "",
+    "objects": [
+      "buildings",
+      "scooter",
+      "potted plants",
+      "signs",
+      "power lines",
+      "street",
+      "windows",
+      "doors"
+    ],
+    "people": [],
+    "scene": "A narrow street with a row of brightly painted, historical-style residential or commercial buildings under a clear blue sky.",
+    "location_clues": [
+      "Sign reading 'CASA LUSITANA'",
+      "Sign reading 'DE LUXE LODGE'",
+      "Brightly painted yellow, blue, green, and orange exterior walls",
+      "Clay tile roofs"
+    ],
+    "text_visible": [
+      "CASA LUSITANA",
+      "DE LUXE LODGE"
+    ],
+    "activities": [
+      "parking a scooter"
+    ],
+    "search_terms": [
+      "colorful colonial buildings",
+      "brightly painted street",
+      "Casa Lusitana",
+      "De Luxe Lodge",
+      "narrow European style street",
+      "colorful facade"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P003",
+    "description": "An older couple sits at a small table on the patio of an outdoor cafe with orange walls and decorative lanterns, looking at their phones.",
+    "location": "",
+    "objects": [
+      "tables",
+      "chairs",
+      "lanterns",
+      "potted plants",
+      "menu board",
+      "mobile phones",
+      "coffee cups"
+    ],
+    "people": [
+      "older man",
+      "older woman"
+    ],
+    "scene": "Outdoor cafe patio",
+    "location_clues": [
+      "orange building facade",
+      "hanging decorative lanterns",
+      "blackboard menu stand",
+      "QR code signs on wall"
+    ],
+    "text_visible": [
+      "QR codes",
+      "menu text on blackboard"
+    ],
+    "activities": [
+      "sitting at a table",
+      "looking at mobile phones",
+      "drinking from a cup"
+    ],
+    "search_terms": [
+      "couple at cafe",
+      "outdoor patio seating",
+      "orange cafe exterior",
+      "older couple on phones",
+      "cafe with lanterns"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P004",
+    "description": "A man and a woman sitting at a table outdoors or on a patio, looking at each other and smiling. The man is wearing a black shirt and the woman has long dark hair.",
+    "location": "",
+    "objects": [
+      "table",
+      "wooden chair",
+      "window with wooden frame",
+      "plant"
+    ],
+    "people": [
+      "man",
+      "woman"
+    ],
+    "scene": "outdoor seating area, cafe patio",
+    "location_clues": [
+      "arch-shaped window with dark wood trim",
+      "textured white wall",
+      "wicker or rattan chair back"
+    ],
+    "text_visible": [],
+    "activities": [
+      "sitting",
+      "talking",
+      "smiling"
+    ],
+    "search_terms": [
+      "couple",
+      "smiling man and woman",
+      "outdoor cafe",
+      "patio seating",
+      "people at a table",
+      "talking at a cafe"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P005",
+    "description": "A close-up shot of a young man and woman smiling and embracing in front of a white wall with arched wooden windows.",
+    "location": "",
+    "objects": [
+      "wooden arched windows",
+      "white wall",
+      "rings",
+      "watches",
+      "necklace"
+    ],
+    "people": [
+      "young woman with long dark hair",
+      "young man with short dark curly hair and facial hair"
+    ],
+    "scene": "Indoor or semi-outdoor space with decorative architectural features.",
+    "location_clues": [
+      "arched wooden windows",
+      "textured white wall",
+      "rattan or wooden furniture detail"
+    ],
+    "text_visible": [],
+    "activities": [
+      "smiling at camera",
+      "embracing"
+    ],
+    "search_terms": [
+      "couple portrait",
+      "smiling man and woman",
+      "hugging",
+      "arched windows background",
+      "lifestyle photography",
+      "close up portrait"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P006",
+    "description": "A street scene featuring a woman standing behind a cart loaded with mangoes, dark grapes, and rambutans, with several pedestrians walking by and a white Honda scooter parked in the foreground. Colorful balloons are tied to a large tree behind the vendor.",
+    "location": "",
+    "objects": [
+      "fruit cart",
+      "mangoes",
+      "grapes",
+      "rambutans",
+      "Honda scooter",
+      "balloons",
+      "camera",
+      "tree",
+      "plastic bucket"
+    ],
+    "people": [
+      "female fruit vendor",
+      "pedestrians",
+      "photographer"
+    ],
+    "scene": "A bustling outdoor street market or sidewalk area with a fruit vendor cart.",
+    "location_clues": [
+      "Honda scooter license plate: KA 05HY 88...",
+      "tree with decorative flags",
+      "bustling pedestrian sidewalk"
+    ],
+    "text_visible": [
+      "KA 05HY 88...",
+      "ACADEMY"
+    ],
+    "activities": [
+      "vending fruit",
+      "walking",
+      "photographing",
+      "shopping"
+    ],
+    "search_terms": [
+      "street fruit vendor",
+      "fruit cart",
+      "mango seller",
+      "bustling street scene",
+      "outdoor market",
+      "selling fruit on sidewalk",
+      "pedestrians"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P007",
+    "description": "A man with a beard, wearing a color-blocked polo shirt and a watch, drinks from a cup in front of a rack filled with various women's sandals and shoes in an outdoor market setting, with other people standing nearby.",
+    "location": "",
+    "objects": [
+      "shoes",
+      "sandals",
+      "shoe rack",
+      "watch",
+      "cup",
+      "polo shirt",
+      "jeans"
+    ],
+    "people": [
+      "man with a beard",
+      "woman with hair tied up",
+      "woman in black shirt",
+      "woman in light colored top"
+    ],
+    "scene": "Outdoor market or street shop stall",
+    "location_clues": [
+      "rows of footwear hanging on racks",
+      "pink sign in the background",
+      "outdoor market display"
+    ],
+    "text_visible": [
+      "ASHO",
+      "9181709889"
+    ],
+    "activities": [
+      "man drinking from a cup",
+      "people standing in a market aisle"
+    ],
+    "search_terms": [
+      "man at shoe stall",
+      "outdoor shoe market",
+      "person drinking in a street market",
+      "hanging shoe display",
+      "street shopping"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P008",
+    "description": "Two people sitting on a lit balcony of a multi-story building at night, with signage for a cafe below.",
+    "location": "",
+    "objects": [
+      "balcony",
+      "potted plants",
+      "hanging lights",
+      "neon arrow sign",
+      "fans",
+      "tables",
+      "chairs",
+      "windows",
+      "railing"
+    ],
+    "people": [
+      "two people"
+    ],
+    "scene": "Nighttime street-level view looking up at a cafe balcony with people sitting outside.",
+    "location_clues": [
+      "sign reading 'GAC 2 Cafe & Tea'",
+      "sign reading 'Liturgical Arts MỜI LÊN GÁC'",
+      "sign reading 'Minh Thu CAFE'",
+      "pink neon arrow sign pointing right"
+    ],
+    "text_visible": [
+      "GAC 2",
+      "Cafe & Tea",
+      "Liturgical Arts",
+      "MỜI LÊN GÁC",
+      "Minh Thu",
+      "CAFE"
+    ],
+    "activities": [
+      "sitting",
+      "talking"
+    ],
+    "search_terms": [
+      "night cafe",
+      "cafe balcony",
+      "outdoor seating night",
+      "people on balcony",
+      "neon signs",
+      "street view cafe",
+      "GAC 2 cafe"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P009",
+    "description": "Two men standing on a rooftop patio at sunset, with a cityscape in the background.",
+    "location": "",
+    "objects": [
+      "rooftop structure",
+      "tables",
+      "chairs",
+      "sky",
+      "clouds",
+      "city buildings"
+    ],
+    "people": [
+      "man with long hair wearing a dark shirt",
+      "man with short hair wearing a light shirt"
+    ],
+    "scene": "outdoor rooftop at dusk",
+    "location_clues": [
+      "dense cityscape in the distance",
+      "rooftop terrace with patio furniture"
+    ],
+    "text_visible": [],
+    "activities": [
+      "standing",
+      "talking"
+    ],
+    "search_terms": [
+      "rooftop",
+      "sunset",
+      "dusk",
+      "men talking",
+      "city view",
+      "terrace",
+      "golden hour"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P010",
+    "description": "A high-angle view of a densely populated urban area at dusk, featuring a vibrant, multi-colored sunset with pink, purple, and blue clouds over a cityscape filled with apartment buildings and residential rooftops.",
+    "location": "",
+    "objects": [
+      "apartment buildings",
+      "rooftops",
+      "streetlights",
+      "windows",
+      "electrical wires",
+      "towers"
+    ],
+    "people": [],
+    "scene": "City skyline at twilight",
+    "location_clues": [
+      "dense multi-story apartment buildings",
+      "residential urban architecture",
+      "tall solitary skyscraper in the distance"
+    ],
+    "text_visible": [],
+    "activities": [
+      "illuminated window lighting"
+    ],
+    "search_terms": [
+      "city skyline at sunset",
+      "urban twilight",
+      "pink and blue sky",
+      "rooftop view",
+      "dusk landscape",
+      "apartment building cityscape"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P011",
+    "description": "A high-angle, black and white view of a busy divided highway featuring heavy traffic on one side and a more sparse flow on the other. Palm trees and apartment-style buildings line the road.",
+    "location": "",
+    "objects": [
+      "cars",
+      "motorcycles",
+      "buses",
+      "palm trees",
+      "street lights",
+      "road divider",
+      "multi-story buildings"
+    ],
+    "people": [],
+    "scene": "A daytime outdoor shot looking down at a multi-lane, divided urban highway with significant vehicle traffic.",
+    "location_clues": [
+      "BMTC bus",
+      "multi-story residential building with text on top",
+      "lush tropical trees",
+      "KA license plates"
+    ],
+    "text_visible": [
+      "BMTC",
+      "KA01H09796",
+      "KA53RL6140",
+      "KA03MJ3153"
+    ],
+    "activities": [
+      "driving",
+      "commuting"
+    ],
+    "search_terms": [
+      "busy highway",
+      "traffic jam",
+      "black and white street photography",
+      "divided road",
+      "urban traffic",
+      "commute",
+      "high angle street view"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P012",
+    "description": "A golden statue of a person riding a horse positioned in front of an ornate, historic-style building complex with domes, viewed from behind a dark metal fence.",
+    "location": "",
+    "objects": [
+      "golden statue",
+      "horse",
+      "rider",
+      "domed building",
+      "metal fence",
+      "trees",
+      "bus"
+    ],
+    "people": [
+      "person on horseback"
+    ],
+    "scene": "An outdoor city scene featuring a prominent statue in front of a monumental government-style building.",
+    "location_clues": [
+      "large stone building with multiple domes",
+      "golden equestrian statue on a pedestal",
+      "distinctive ornate architectural style"
+    ],
+    "text_visible": [],
+    "activities": [
+      "standing (statue)"
+    ],
+    "search_terms": [
+      "golden horse statue",
+      "equestrian statue",
+      "domed palace building",
+      "ornate architecture",
+      "historical monument"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P013",
+    "description": "A high-angle view looking over a small lake surrounded by dense trees and urban buildings under a cloudy sky. In the foreground, rooftops are visible, and in the distance, apartment complexes and a tall telecommunications tower stand against the horizon.",
+    "location": "",
+    "objects": [
+      "lake",
+      "trees",
+      "buildings",
+      "apartment complexes",
+      "telecommunications tower",
+      "rooftops",
+      "water tanks",
+      "satellite dish",
+      "utility poles"
+    ],
+    "people": [],
+    "scene": "Urban landscape with a body of water",
+    "location_clues": [
+      "tall telecommunications tower",
+      "dense foliage surrounding a lake",
+      "multi-story apartment building"
+    ],
+    "text_visible": [
+      "Airtel"
+    ],
+    "activities": [
+      "viewing scenery"
+    ],
+    "search_terms": [
+      "lake view",
+      "city skyline",
+      "urban landscape",
+      "rooftop view",
+      "buildings and lake",
+      "telecommunications tower"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P014",
+    "description": "A night street view filled with elaborate decorative neon and LED street lighting. The scene features a road with cars and an auto-rickshaw in the foreground, with commercial buildings on the right side decorated with bright festive lights. A metal pedestrian barrier lines the right side of the road, and people are walking along the sidewalk.",
+    "location": "",
+    "objects": [
+      "auto-rickshaw",
+      "car",
+      "street lights",
+      "neon signs",
+      "pedestrian barrier",
+      "buildings",
+      "decorative LED lights"
+    ],
+    "people": [
+      "pedestrians",
+      "drivers"
+    ],
+    "scene": "Nighttime street scene decorated with festive lights",
+    "location_clues": [
+      "SIGN: RESTAURANT",
+      "SIGN: SELEC HYPERMART",
+      "SIGN: INDIA CHAI",
+      "SIGN: CAD",
+      "SIGN: 30 (speed limit sign)",
+      "Decorative glowing diya and floral motifs"
+    ],
+    "text_visible": [
+      "RESTAURANT",
+      "SELEC HYPERMART",
+      "INDIA CHAI",
+      "CAD",
+      "30"
+    ],
+    "activities": [
+      "driving",
+      "walking",
+      "commuting"
+    ],
+    "search_terms": [
+      "night street festive lights",
+      "street decorated with neon",
+      "auto-rickshaw at night",
+      "brightly lit urban street",
+      "festive street decorations",
+      "city at night with colorful lights"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P015",
+    "description": "A low-angle black and white photograph of a large, symmetrical neo-Dravidian style building with a prominent central dome topped by a sculpture of a four-headed lion emblem. The building has grand stone steps, tall pillars, and a multi-tiered facade.",
+    "location": "",
+    "objects": [
+      "building",
+      "dome",
+      "pillars",
+      "lion emblem",
+      "sculpture",
+      "stairs",
+      "street lamp"
+    ],
+    "people": [],
+    "scene": "Exterior of a grand, historic-looking government building during the day.",
+    "location_clues": [
+      "Text 'GOVERNMENT WORK IS GOD'S WORK' inscribed above the entrance",
+      "Lion capital sculpture on dome apex",
+      "Neo-Dravidian architecture style",
+      "Large stone staircases"
+    ],
+    "text_visible": [
+      "GOVERNMENT WORK IS GOD'S WORK",
+      "Kannada script above the English text"
+    ],
+    "activities": [],
+    "search_terms": [
+      "government building",
+      "neo-Dravidian architecture",
+      "black and white architecture",
+      "landmark with large dome",
+      "monument with lion emblem",
+      "Government work is God's work building"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P016",
+    "description": "A street scene framed by large, expansive green trees forming a canopy over the road. Several cars are parked along the sides and driving on the road. A person is walking on the left side of the street, and there are storefront signs on the right.",
+    "location": "",
+    "objects": [
+      "cars",
+      "trees",
+      "road",
+      "street signs",
+      "buildings",
+      "utility poles"
+    ],
+    "people": [
+      "one person walking"
+    ],
+    "scene": "outdoor street scene under a tree canopy",
+    "location_clues": [
+      "sign reading 'Say Cheese'",
+      "sign with text 'LULU'",
+      "license plates on cars"
+    ],
+    "text_visible": [
+      "Say Cheese",
+      "LULU"
+    ],
+    "activities": [
+      "driving",
+      "walking"
+    ],
+    "search_terms": [
+      "tree canopy street",
+      "shaded road",
+      "street with large trees",
+      "cars on tree-lined street",
+      "sunny day street scene"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P017",
+    "description": "A tall, ornate temple gopuram or tower, light tan in color, featuring detailed stone carvings of figures and symmetrical architectural elements. A single tall palm tree stands to the left against a clear blue sky. A sign with text is mounted above the temple entrance.",
+    "location": "",
+    "objects": [
+      "temple tower",
+      "palm tree",
+      "stone carvings",
+      "sculptures",
+      "sign"
+    ],
+    "people": [],
+    "scene": "Exterior view of an ornate, historic temple tower.",
+    "location_clues": [
+      "ANCIENT SRI LAKSHMIRAMANA SWAMY TEMPLE",
+      "A.D. 1499",
+      "पुरातन श्री लक्ष्मीरमण स्वामी मंदिर"
+    ],
+    "text_visible": [
+      "ANCIENT SRI LAKSHMIRAMANA SWAMY TEMPLE",
+      "A.D. 1499",
+      "पुरातन श्री लक्ष्मीरमण स्वामी मंदिर"
+    ],
+    "activities": [],
+    "search_terms": [
+      "ornate temple",
+      "historical temple tower",
+      "tall stone tower with carvings",
+      "Sri Lakshmiramana Swamy Temple",
+      "Indian architecture",
+      "temple gopuram"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P018",
+    "description": "A high-angle, wide-shot panoramic view looking down over a vast, flat landscape consisting of scattered small town developments, farmlands, and greenery under an overcast sky.",
+    "location": "",
+    "objects": [
+      "trees",
+      "fields",
+      "buildings",
+      "roads",
+      "clouds",
+      "sky",
+      "vegetation"
+    ],
+    "people": [],
+    "scene": "An aerial or elevated vantage point looking out over a wide, expansive rural and semi-urban plain.",
+    "location_clues": [],
+    "text_visible": [],
+    "activities": [
+      "viewing scenery"
+    ],
+    "search_terms": [
+      "landscape",
+      "aerial view",
+      "view from mountain",
+      "wide angle view",
+      "rural landscape",
+      "overcast sky",
+      "scenery",
+      "high vantage point"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P019",
+    "description": "A vertical view of high, snow-capped mountains partially illuminated by late afternoon or golden hour light, with dense coniferous forests on the lower slopes and dark, leafless tree silhouettes in the foreground.",
+    "location": "",
+    "objects": [
+      "mountains",
+      "snow",
+      "pine trees",
+      "forest",
+      "leafless tree",
+      "treeline"
+    ],
+    "people": [],
+    "scene": "Landscape view of a mountainous region during the transition between day and dusk.",
+    "location_clues": [
+      "snow-covered mountain peaks",
+      "dense conifer forest on mountain side"
+    ],
+    "text_visible": [],
+    "activities": [
+      "nature observation"
+    ],
+    "search_terms": [
+      "snowy mountains",
+      "mountain landscape",
+      "snow-capped peaks",
+      "pine forest",
+      "dusk landscape",
+      "winter scenery",
+      "golden hour mountains"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P020",
+    "description": "A two-story rustic house with a dark stone-slate roof, partially constructed of wood and stone, nestled in a mountainous landscape with bare trees and stacks of hay.",
+    "location": "",
+    "objects": [
+      "house",
+      "stone roof",
+      "hay stacks",
+      "wooden frame",
+      "bare trees",
+      "satellite dish"
+    ],
+    "people": [],
+    "scene": "A rural mountain environment with a traditional-style dwelling partially obscured by trees.",
+    "location_clues": [
+      "mountainous terrain",
+      "dense coniferous and deciduous forest mix",
+      "stone-tiled roof"
+    ],
+    "text_visible": [],
+    "activities": [
+      "storage of hay"
+    ],
+    "search_terms": [
+      "rustic mountain house",
+      "stone slate roof",
+      "rural cottage",
+      "mountain landscape",
+      "wooden cabin"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P021",
+    "description": "A vertical view of a small village nestled on a hillside covered in coniferous trees, partially obscured by heavy mist and low-hanging clouds.",
+    "location": "",
+    "objects": [
+      "buildings",
+      "houses",
+      "pine trees",
+      "coniferous trees",
+      "hills",
+      "mountains",
+      "electric transmission towers"
+    ],
+    "people": [],
+    "scene": "Landscape view of a mountainous village in foggy, overcast weather.",
+    "location_clues": [
+      "hilly terrain",
+      "clusters of multi-story buildings",
+      "dense pine forest"
+    ],
+    "text_visible": [],
+    "activities": [
+      "viewing scenery"
+    ],
+    "search_terms": [
+      "foggy mountain village",
+      "misty hills",
+      "coniferous forest landscape",
+      "mountain architecture",
+      "fog over valley",
+      "scenic mountain view"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P022",
+    "description": "A vertical view framed by pine tree branches in the foreground, looking out over a deep mountain valley with a town nestled at the bottom and snow-capped peaks in the distance.",
+    "location": "",
+    "objects": [
+      "pine trees",
+      "mountains",
+      "snow",
+      "buildings",
+      "valley",
+      "trees"
+    ],
+    "people": [],
+    "scene": "A scenic landscape view looking through a natural frame of tree branches toward a snow-covered mountain range and a small town in the valley below.",
+    "location_clues": [
+      "snow-capped mountains",
+      "deep valley",
+      "dense evergreen forests",
+      "town with clustered buildings"
+    ],
+    "text_visible": [],
+    "activities": [],
+    "search_terms": [
+      "mountain landscape",
+      "snowy mountains",
+      "valley view",
+      "pine trees frame",
+      "scenic overlook",
+      "mountain town",
+      "nature photography"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P023",
+    "description": "A view of a coffee shop counter with a light blue distressed wall, an espresso machine, and shelves stocked with snacks and drinks.",
+    "location": "",
+    "objects": [
+      "espresso machine",
+      "coffee grinder",
+      "shelving unit",
+      "snack bags",
+      "metal canisters",
+      "menu signs",
+      "countertop"
+    ],
+    "people": [],
+    "scene": "The interior of a cafe, focusing on the service counter and merchandise display.",
+    "location_clues": [
+      "sign reading 'Classic brews for every mood'",
+      "sign reading 'Brunch Friends Forever'",
+      "espresso machine labeled 'Kaffa'",
+      "sign reading 'Gourmet Coffees & Blends'",
+      "Pringles cans",
+      "bags labeled 'Spinach Nachos'"
+    ],
+    "text_visible": [
+      "Classic brews for every mood",
+      "Brunch Friends Forever",
+      "Gourmet Coffees & Blends",
+      "Carefully cultivated coffee",
+      "Kaffa",
+      "Big Stack",
+      "Spinach Nachos"
+    ],
+    "activities": [
+      "displaying merchandise",
+      "advertising menu items"
+    ],
+    "search_terms": [
+      "coffee shop interior",
+      "espresso machine",
+      "cafe counter",
+      "snack display shelves",
+      "distressed blue wall cafe",
+      "coffee menu signs"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P024",
+    "description": "An empty, dimly lit coffee shop interior with wooden chairs, marble-topped round tables, a brick wall, and a large handwritten menu board above the service counter.",
+    "location": "",
+    "objects": [
+      "wooden chairs",
+      "round marble-topped tables",
+      "brick wall",
+      "menu board",
+      "service counter",
+      "pendant lights",
+      "coffee machine",
+      "plant"
+    ],
+    "people": [],
+    "scene": "Interior of a small coffee shop or cafe",
+    "location_clues": [
+      "handwritten chalkboard menu listing various coffee drinks like Espresso, Latte, and Mocha",
+      "wooden wall sign with 'Cups' text",
+      "exposed red brick wall"
+    ],
+    "text_visible": [
+      "Cups",
+      "Espresso",
+      "Americano",
+      "Latte",
+      "Cappuccino",
+      "Flat White",
+      "Pumpkin Spiced Latte",
+      "Matcha Latte",
+      "Chai Tea Latte",
+      "Sıcak Çikolata",
+      "Limonata",
+      "Kombucha",
+      "Hibiscus Tea"
+    ],
+    "activities": [],
+    "search_terms": [
+      "coffee shop interior",
+      "cafe atmosphere",
+      "brick wall cafe",
+      "coffee menu chalkboard",
+      "cozy cafe seating",
+      "modern coffee shop decor"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P025",
+    "description": "An airy, sunlit cafe seating area with a checkerboard floor in white and gold tiles, featuring multiple arched windows, wooden-framed chairs with purple patterned cushions, and large potted plants.",
+    "location": "",
+    "objects": [
+      "checkerboard floor",
+      "arched windows",
+      "wooden chairs",
+      "marble-topped tables",
+      "potted plants",
+      "floor lamps",
+      "pendant lights",
+      "glass ceiling",
+      "large ceramic pots"
+    ],
+    "people": [],
+    "scene": "Indoor cafe seating area with a bright, open atmosphere.",
+    "location_clues": [
+      "arched window architecture",
+      "checkerboard floor tiles",
+      "glass roof panels"
+    ],
+    "text_visible": [
+      "small table signs with QR codes"
+    ],
+    "activities": [
+      "seating setup"
+    ],
+    "search_terms": [
+      "cafe interior",
+      "checkerboard floor",
+      "arched windows",
+      "sunlit cafe",
+      "restaurant seating",
+      "cozy restaurant design"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P026",
+    "description": "An interior shot of a cafe or lounge area with a white brick wall, wooden furniture, and a large dog lying on the floor in the foreground. Two people are sitting on a couch in the background, facing each other.",
+    "location": "",
+    "objects": [
+      "wooden chairs",
+      "couch",
+      "large dog",
+      "potted plants",
+      "framed black and white photographs",
+      "ceiling fan",
+      "exposed piping"
+    ],
+    "people": [
+      "two individuals"
+    ],
+    "scene": "indoor cafe or lounge",
+    "location_clues": [
+      "white brick wall",
+      "framed portraits",
+      "indoor greenery",
+      "industrial style lighting and piping"
+    ],
+    "text_visible": [
+      "Paris"
+    ],
+    "activities": [
+      "sitting",
+      "talking",
+      "resting"
+    ],
+    "search_terms": [
+      "cafe interior",
+      "dog in cafe",
+      "white brick wall room",
+      "vintage style lounge",
+      "people sitting on couch"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P027",
+    "description": "A close-up, low-light photograph of a medium-sized brown and black dog with pointy ears looking at the camera. The dog has a tag on its collar and is partially showing its lower teeth while lying on a dark floor next to a wall.",
+    "location": "",
+    "objects": [
+      "dog",
+      "collar",
+      "tag",
+      "floor",
+      "wall"
+    ],
+    "people": [],
+    "scene": "Indoor, low-light portrait of a dog.",
+    "location_clues": [],
+    "text_visible": [],
+    "activities": [
+      "lying down",
+      "looking at camera"
+    ],
+    "search_terms": [
+      "dog",
+      "brown and black dog",
+      "dog portrait",
+      "low light dog photo",
+      "close up dog"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P028",
+    "description": "A medium-sized, short-haired, reddish-brown dog sits on the floor while mostly covered by a black and white patterned fabric or blanket, with its tongue out as if licking its nose.",
+    "location": "",
+    "objects": [
+      "dog",
+      "blanket",
+      "sofa",
+      "cushion",
+      "floor"
+    ],
+    "people": [],
+    "scene": "An indoor living space with a dog sitting in front of a sofa.",
+    "location_clues": [],
+    "text_visible": [],
+    "activities": [
+      "licking nose",
+      "sitting"
+    ],
+    "search_terms": [
+      "dog",
+      "red dog",
+      "dog under blanket",
+      "dog licking nose",
+      "cozy dog"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P029",
+    "description": "A close-up shot of a scruffy-haired dog with a blue collar, captured while yawning with its mouth wide open, illuminated by direct sunlight against an indoor wall with framed pictures and text decor.",
+    "location": "",
+    "objects": [
+      "dog",
+      "blue collar",
+      "picture frames",
+      "wall art"
+    ],
+    "people": [],
+    "scene": "indoors",
+    "location_clues": [
+      "wall with framed art",
+      "text sign that reads 'THINK'"
+    ],
+    "text_visible": [
+      "THINK"
+    ],
+    "activities": [
+      "yawning"
+    ],
+    "search_terms": [
+      "dog",
+      "yawning dog",
+      "scruffy dog",
+      "dog with blue collar",
+      "pet yawn",
+      "sunlit dog"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P030",
+    "description": "A close-up, side-profile view of a fluffy, black and white husky-type dog lying down on a soft, light-colored surface and eating a whole carrot.",
+    "location": "",
+    "objects": [
+      "dog",
+      "carrot",
+      "blanket"
+    ],
+    "people": [],
+    "scene": "A dog lying indoors on a soft surface, eating a vegetable.",
+    "location_clues": [],
+    "text_visible": [],
+    "activities": [
+      "eating"
+    ],
+    "search_terms": [
+      "husky",
+      "dog eating carrot",
+      "fluffy dog",
+      "dog on bed",
+      "black and white dog"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P031",
+    "description": "A close-up view of the front corner of a grey vintage car, focusing on the headlight assembly, chrome bumper, and a small round auxiliary lamp.",
+    "location": "",
+    "objects": [
+      "car",
+      "headlight",
+      "bumper",
+      "wheel",
+      "grille",
+      "auxiliary lamp"
+    ],
+    "people": [],
+    "scene": "Close-up detail of a parked vehicle.",
+    "location_clues": [
+      "paved ground",
+      "herringbone pattern bricks"
+    ],
+    "text_visible": [
+      "Hella"
+    ],
+    "activities": [],
+    "search_terms": [
+      "vintage car headlight",
+      "classic car details",
+      "chrome bumper",
+      "grey classic car",
+      "car auxiliary lamp"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P032",
+    "description": "A cream-colored vintage Fiat sedan parked on a grassy strip next to a road under a bright blue sky.",
+    "location": "",
+    "objects": [
+      "vintage car",
+      "Fiat sedan",
+      "street light",
+      "tree"
+    ],
+    "people": [],
+    "scene": "outdoor, daytime",
+    "location_clues": [
+      "license plate WBF 202",
+      "white street lamps"
+    ],
+    "text_visible": [
+      "WBF 202"
+    ],
+    "activities": [
+      "parked"
+    ],
+    "search_terms": [
+      "vintage car",
+      "classic Fiat",
+      "cream colored sedan",
+      "car parked on grass",
+      "old car"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P033",
+    "description": "A bright red vintage sedan car parked on a paved road surrounded by dense, tall trees with autumn-toned foliage, lit by sunlight filtering through the branches.",
+    "location": "",
+    "objects": [
+      "vintage car",
+      "sedan",
+      "paved road",
+      "trees",
+      "license plate"
+    ],
+    "people": [],
+    "scene": "outdoor, wooded, car parked on road",
+    "location_clues": [
+      "dense trees with yellow and green leaves",
+      "paved asphalt path",
+      "sunlight filtering through canopy"
+    ],
+    "text_visible": [
+      "MYX 1209"
+    ],
+    "activities": [
+      "parking"
+    ],
+    "search_terms": [
+      "red vintage car",
+      "classic red sedan",
+      "car in the woods",
+      "red car on road",
+      "MYX 1209"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P034",
+    "description": "A close-up front view of a white Jaguar sedan driving on a road.",
+    "location": "",
+    "objects": [
+      "car",
+      "sedan",
+      "headlights",
+      "grille",
+      "license plate"
+    ],
+    "people": [],
+    "scene": "A car moving on a road during the daytime.",
+    "location_clues": [
+      "road signs",
+      "street lights"
+    ],
+    "text_visible": [
+      "MH02ER2626",
+      "IND"
+    ],
+    "activities": [
+      "driving"
+    ],
+    "search_terms": [
+      "white Jaguar car",
+      "Jaguar sedan",
+      "car on road",
+      "luxury vehicle",
+      "MH02ER2626"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P035",
+    "description": "A bright yellow Ford Mustang sports car parked or stopped on a dark street at night, with its headlights illuminated. Other vehicles are visible in the background.",
+    "location": "",
+    "objects": [
+      "car",
+      "sports car",
+      "Ford Mustang",
+      "headlights",
+      "utility pole",
+      "street",
+      "license plate"
+    ],
+    "people": [],
+    "scene": "An outdoor street scene at night featuring a prominent yellow car.",
+    "location_clues": [
+      "license plate GJ06 LS 9595",
+      "utility pole with power lines"
+    ],
+    "text_visible": [
+      "GJ06 LS 9595"
+    ],
+    "activities": [
+      "driving",
+      "parked"
+    ],
+    "search_terms": [
+      "yellow mustang",
+      "sports car at night",
+      "car with headlights on",
+      "bright yellow sports car",
+      "street scene night"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P036",
+    "description": "A black and white, eye-level portrait taken in a mirror reflection showing a person holding a camera up to their face to take a picture.",
+    "location": "",
+    "objects": [
+      "camera",
+      "lens",
+      "jacket",
+      "mirror"
+    ],
+    "people": [
+      "adult"
+    ],
+    "scene": "Indoor mirror selfie.",
+    "location_clues": [],
+    "text_visible": [
+      "FUJINON ASPHERICAL LENS",
+      "SUPER EBC XF 16-80mm 1:4 R OIS WR 72"
+    ],
+    "activities": [
+      "taking a photograph",
+      "looking in a mirror"
+    ],
+    "search_terms": [
+      "black and white",
+      "selfie",
+      "mirror",
+      "photographer",
+      "holding camera",
+      "camera reflection",
+      "portrait"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P037",
+    "description": "A smiling woman wearing a brown knit hat and red cardigan stands in a wooden doorway, reaching out to pet a small, scruffy, light-colored dog sitting on stone steps. Beside the dog are a pair of purple clogs.",
+    "location": "",
+    "objects": [
+      "wooden doorway",
+      "stone wall",
+      "purple clogs",
+      "brown knit hat",
+      "red cardigan",
+      "dog"
+    ],
+    "people": [
+      "woman"
+    ],
+    "scene": "An outdoor doorway entrance featuring stone masonry and wood construction, with a fireplace visible in the dark background.",
+    "location_clues": [
+      "stone-built walls",
+      "heavy timber door frame",
+      "rough-hewn stone steps"
+    ],
+    "text_visible": [],
+    "activities": [
+      "smiling",
+      "petting a dog",
+      "standing in a doorway"
+    ],
+    "search_terms": [
+      "woman petting dog",
+      "woman in doorway",
+      "stone house entrance",
+      "smiling woman in red sweater",
+      "scruffy white dog",
+      "purple crocs shoes"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P038",
+    "description": "A black and white photograph of a man sitting in the driver's seat of a car. He is wearing sunglasses. Hanging from the rearview mirror is a string of prayer beads with a small square pendant featuring a portrait. The background outside the car window shows a blurred landscape.",
+    "location": "",
+    "objects": [
+      "car",
+      "sunglasses",
+      "rearview mirror",
+      "prayer beads",
+      "pendant"
+    ],
+    "people": [
+      "man"
+    ],
+    "scene": "Close-up of a driver inside a vehicle.",
+    "location_clues": [
+      "field visible through car window"
+    ],
+    "text_visible": [],
+    "activities": [
+      "driving",
+      "sitting"
+    ],
+    "search_terms": [
+      "man driving car",
+      "black and white photo",
+      "person in car with sunglasses",
+      "rearview mirror beads"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P039",
+    "description": "A view from behind the shoulder of a person driving a Volvo, focused on the steering wheel, digital dashboard, and infotainment screen.",
+    "location": "",
+    "objects": [
+      "steering wheel",
+      "digital dashboard",
+      "infotainment screen",
+      "car interior",
+      "side mirror"
+    ],
+    "people": [
+      "driver"
+    ],
+    "scene": "Inside the driver's seat of a car while in motion.",
+    "location_clues": [
+      "Volvo logo on steering wheel",
+      "Digital display showing '30' speed",
+      "Infotainment screen showing music and iPhone status",
+      "Out-of-focus trees and road visible through windshield"
+    ],
+    "text_visible": [
+      "VOLVO",
+      "30",
+      "25°C",
+      "18°C",
+      "iPhone",
+      "Claro AR",
+      "Estado del Auto",
+      "TPMS"
+    ],
+    "activities": [
+      "driving"
+    ],
+    "search_terms": [
+      "driving",
+      "car interior",
+      "Volvo steering wheel",
+      "POV driving",
+      "digital car dashboard"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P040",
+    "description": "A person riding a motorcycle on a paved street, wearing a helmet and a large dark backpack.",
+    "location": "",
+    "objects": [
+      "motorcycle",
+      "helmet",
+      "backpack",
+      "blue jeans",
+      "sandals",
+      "license plate"
+    ],
+    "people": [
+      "motorcyclist"
+    ],
+    "scene": "Street scene with a motorcycle in motion",
+    "location_clues": [
+      "license plate with Arabic text and numbers 45239",
+      "storefront with various products displayed on shelves in the background"
+    ],
+    "text_visible": [
+      "Invict",
+      "EX",
+      "Honda",
+      "45239"
+    ],
+    "activities": [
+      "riding a motorcycle"
+    ],
+    "search_terms": [
+      "motorcyclist",
+      "motorcycle",
+      "person on motorbike",
+      "rider with backpack",
+      "street scene"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P041",
+    "description": "A man wearing a helmet riding a motorcycle down the center of a narrow street lined with buildings and parked cars, with overhead power lines visible.",
+    "location": "",
+    "objects": [
+      "motorcycle",
+      "helmet",
+      "cars",
+      "utility poles",
+      "power lines",
+      "potted plants",
+      "street light"
+    ],
+    "people": [
+      "man"
+    ],
+    "scene": "Urban street scene with a motorcyclist approaching the viewer.",
+    "location_clues": [
+      "overhead power line tangle",
+      "two-story buildings",
+      "narrow asphalt road",
+      "sidewalk with potted plants"
+    ],
+    "text_visible": [],
+    "activities": [
+      "driving a motorcycle"
+    ],
+    "search_terms": [
+      "motorcyclist on street",
+      "man on motorbike",
+      "city street scene",
+      "tangled power lines",
+      "urban narrow road"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P042",
+    "description": "A man wearing a white cap, dark shirt, and jeans sitting on a blue and black Kawasaki Ninja sportbike parked in the middle of a road surrounded by dense trees.",
+    "location": "",
+    "objects": [
+      "motorcycle",
+      "sportbike",
+      "trees",
+      "road",
+      "cap",
+      "watch"
+    ],
+    "people": [
+      "man"
+    ],
+    "scene": "outdoor, forest road",
+    "location_clues": [
+      "paved road with white center line",
+      "dense forest surroundings",
+      "trees lining both sides of the path"
+    ],
+    "text_visible": [
+      "Ninja",
+      "Kawasaki"
+    ],
+    "activities": [
+      "sitting on a motorcycle"
+    ],
+    "search_terms": [
+      "man on motorcycle",
+      "blue Kawasaki Ninja",
+      "sportbike on forest road",
+      "man in white cap on bike",
+      "motorcycle photography"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P043",
+    "description": "A long-exposure night view of a modern city skyline with illuminated skyscrapers reflecting across a body of water in the foreground.",
+    "location": "",
+    "objects": [
+      "skyscrapers",
+      "buildings",
+      "water",
+      "lights"
+    ],
+    "people": [],
+    "scene": "Nighttime cityscape across a waterfront",
+    "location_clues": [
+      "dense cluster of high-rise buildings",
+      "distinctive cylindrical golden building",
+      "pyramid-shaped building in the skyline",
+      "diverse architectural styles with neon and LED lighting"
+    ],
+    "text_visible": [],
+    "activities": [
+      "glowing in the night"
+    ],
+    "search_terms": [
+      "night city skyline",
+      "illuminated skyscrapers",
+      "city lights reflection",
+      "modern architecture at night",
+      "waterfront cityscape"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P044",
+    "description": "A view of a marina with luxury yachts docked in the foreground during sunset, with a series of tall, tan-colored residential buildings in the background.",
+    "location": "",
+    "objects": [
+      "yacht",
+      "catamaran",
+      "boat",
+      "high-rise buildings",
+      "water",
+      "sun"
+    ],
+    "people": [],
+    "scene": "A marina or harbor scene at sunset, featuring docked boats and waterfront architecture.",
+    "location_clues": [
+      "tall tan apartment buildings with repeating window patterns",
+      "waterfront marina setting",
+      "luxury yachts"
+    ],
+    "text_visible": [],
+    "activities": [
+      "boats docked in a harbor",
+      "sun setting"
+    ],
+    "search_terms": [
+      "yachts",
+      "marina",
+      "sunset",
+      "harbor",
+      "boats",
+      "luxury waterfront",
+      "tall apartment buildings"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P045",
+    "description": "A view framed by a dark stone archway looking out onto a bright, open public square. People are walking across the square, and in the background, there is a prominent cluster of modern skyscrapers. Traditional-style lanterns hang from the archway.",
+    "location": "",
+    "objects": [
+      "archway",
+      "lanterns",
+      "skyscrapers",
+      "benches",
+      "pavement"
+    ],
+    "people": [
+      "pedestrians"
+    ],
+    "scene": "outdoor public space",
+    "location_clues": [
+      "stone archway",
+      "modern skyline",
+      "hanging lamps",
+      "text 'EXIT'"
+    ],
+    "text_visible": [
+      "EXIT"
+    ],
+    "activities": [
+      "walking",
+      "standing"
+    ],
+    "search_terms": [
+      "view through archway",
+      "city skyline behind traditional architecture",
+      "people walking in public square",
+      "modern skyscrapers from archway",
+      "street scene with lanterns"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P046",
+    "description": "A street-level view looking down a pedestrian path in an open-air market or bazaar with light-colored, traditional stone buildings on both sides. Several people are walking through the market.",
+    "location": "",
+    "objects": [
+      "stone buildings",
+      "thatched roof awning",
+      "arched doorways",
+      "wooden beams on facade",
+      "street tiles",
+      "carts",
+      "banners"
+    ],
+    "people": [
+      "man in blue shirt",
+      "man in white shirt",
+      "man in brown shirt",
+      "individual in white traditional clothing",
+      "pedestrians"
+    ],
+    "scene": "outdoor marketplace street",
+    "location_clues": [
+      "traditional stone architecture",
+      "exposed wooden roof beams",
+      "narrow paved walkway",
+      "thatched overhanging structure"
+    ],
+    "text_visible": [
+      "AQIF ROUTE"
+    ],
+    "activities": [
+      "walking"
+    ],
+    "search_terms": [
+      "outdoor bazaar",
+      "traditional market street",
+      "stone buildings walkway",
+      "people walking in market",
+      "middle eastern style architecture market"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P047",
+    "description": "A close-up, high-angle view of a man, a woman, and a baby lying together, with their heads close and touching while smiling at the camera.",
+    "location": "",
+    "objects": [
+      "white lace blanket",
+      "white clothing"
+    ],
+    "people": [
+      "man with a beard",
+      "woman with long dark hair",
+      "baby"
+    ],
+    "scene": "Indoor studio portrait, bright and soft lighting.",
+    "location_clues": [],
+    "text_visible": [],
+    "activities": [
+      "lying down",
+      "smiling",
+      "posing for a photo"
+    ],
+    "search_terms": [
+      "family portrait",
+      "newborn baby",
+      "parents and child",
+      "smiling family",
+      "close up portrait"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P048",
+    "description": "A close-up portrait of a man holding a young child, standing next to a woman who is making a peace sign gesture.",
+    "location": "",
+    "objects": [
+      "toddler",
+      "man",
+      "woman",
+      "phone",
+      "scarf",
+      "shirt",
+      "bangles"
+    ],
+    "people": [
+      "man",
+      "woman",
+      "toddler"
+    ],
+    "scene": "Outdoors, possibly a public area or street setting with blurred architecture in the background.",
+    "location_clues": [],
+    "text_visible": [],
+    "activities": [
+      "posing for a photo",
+      "holding a child",
+      "making a peace sign gesture"
+    ],
+    "search_terms": [
+      "family photo",
+      "man holding baby",
+      "woman making peace sign",
+      "portrait",
+      "three people"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P049",
+    "description": "A group of women in traditional clothing crouching on the ground at night, surrounding and arranging numerous small, lit clay oil lamps (diyas) on a dark, wet surface.",
+    "location": "",
+    "objects": [
+      "clay lamps",
+      "diyas",
+      "plastic bag",
+      "clothing",
+      "jewelry"
+    ],
+    "people": [
+      "multiple women"
+    ],
+    "scene": "Nighttime outdoor scene with multiple lit oil lamps arranged on the ground.",
+    "location_clues": [
+      "yellow plastic bag with text 'Hira Sweets' and 'Laddu'"
+    ],
+    "text_visible": [
+      "Hira Sweets",
+      "Laddu"
+    ],
+    "activities": [
+      "crouching",
+      "arranging lamps",
+      "lighting lamps"
+    ],
+    "search_terms": [
+      "women lighting diyas",
+      "nighttime prayer ritual",
+      "small clay oil lamps on ground",
+      "diya arrangement night",
+      "traditional lighting ritual"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P050",
+    "description": "A smiling young woman wearing a yellow and red garment holds a small plate of sweets and flowers, with gift boxes and string lights in the background.",
+    "location": "",
+    "objects": [
+      "plate",
+      "sweets",
+      "yellow flowers",
+      "gift boxes",
+      "string lights",
+      "table"
+    ],
+    "people": [
+      "young woman"
+    ],
+    "scene": "Indoors, festive, portrait setting",
+    "location_clues": [
+      "string lights against a dark wall",
+      "gift boxes"
+    ],
+    "text_visible": [],
+    "activities": [
+      "holding a plate of sweets",
+      "smiling at the camera"
+    ],
+    "search_terms": [
+      "woman in yellow and red traditional clothing",
+      "festive portrait",
+      "woman holding plate of sweets",
+      "diwali aesthetic",
+      "string lights background",
+      "celebratory clothing"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P051",
+    "description": "A profile view of a young woman with long dark hair, wearing a yellow outfit with ornate henna patterns on her hands, holding a small plate of sweets. In the background, there is a gray wall decorated with string lights, and a table with gifts.",
+    "location": "",
+    "objects": [
+      "plate",
+      "sweets",
+      "henna",
+      "yellow clothing",
+      "string lights",
+      "gifts",
+      "bracelets",
+      "marigold flowers"
+    ],
+    "people": [
+      "young woman"
+    ],
+    "scene": "Indoor setting with decorative lighting and festive accessories.",
+    "location_clues": [],
+    "text_visible": [],
+    "activities": [
+      "holding a plate of sweets",
+      "smiling"
+    ],
+    "search_terms": [
+      "woman in yellow",
+      "henna hands",
+      "mehendi",
+      "sweets plate",
+      "festive background lights",
+      "celebratory Indian attire",
+      "young woman smiling"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P052",
+    "description": "A man wearing a blue kurta stands between two women wearing traditional Indian clothing. The man is holding a tray with three wrapped gift boxes, and the women are holding plates filled with yellow marigold flowers and sweets. The setting is indoors against a dark textured wall with fairy lights in the background.",
+    "location": "",
+    "objects": [
+      "gift boxes",
+      "metal trays",
+      "marigold flowers",
+      "sweets",
+      "fairy lights",
+      "traditional Indian clothing"
+    ],
+    "people": [
+      "man with a beard",
+      "woman with head jewelry",
+      "woman with henna on her hands"
+    ],
+    "scene": "Indoor festive celebration",
+    "location_clues": [
+      "dark textured wall",
+      "string lights"
+    ],
+    "text_visible": [],
+    "activities": [
+      "smiling",
+      "holding trays",
+      "interacting with each other"
+    ],
+    "search_terms": [
+      "festive celebration",
+      "people in traditional Indian clothes",
+      "holding gifts",
+      "marigold flowers",
+      "indian festival",
+      "group smiling"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P053",
+    "description": "Two women wearing traditional South Asian clothing exchange small gifts in front of a dark, textured wall decorated with string lights.",
+    "location": "",
+    "objects": [
+      "gift",
+      "gift box",
+      "string lights",
+      "bangles",
+      "plate of sweets",
+      "jewelry",
+      "maang tikka",
+      "earrings"
+    ],
+    "people": [
+      "two women"
+    ],
+    "scene": "indoor setting with dim lighting",
+    "location_clues": [
+      "textured dark grey wall",
+      "string fairy lights"
+    ],
+    "text_visible": [],
+    "activities": [
+      "exchanging gifts",
+      "smiling",
+      "holding small gift boxes"
+    ],
+    "search_terms": [
+      "women in sarees",
+      "gift exchange",
+      "traditional dress",
+      "string lights backdrop",
+      "festive clothing",
+      "henna on hands",
+      "Indian attire"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P054",
+    "description": "Two women and one man wearing traditional Indian attire, smiling and holding plates of small gifts and marigold flowers in front of a dark, festively lit background.",
+    "location": "",
+    "objects": [
+      "gift boxes",
+      "marigold flowers",
+      "metal trays",
+      "small bowls",
+      "string lights"
+    ],
+    "people": [
+      "man with a beard",
+      "woman with a forehead ornament",
+      "woman with long dark hair"
+    ],
+    "scene": "Indoor studio setting with a dark textured wall and string lights in the background.",
+    "location_clues": [],
+    "text_visible": [],
+    "activities": [
+      "holding gift trays",
+      "smiling at camera"
+    ],
+    "search_terms": [
+      "people in Indian clothing",
+      "holding gifts and marigolds",
+      "traditional festive attire",
+      "man and two women smiling",
+      "celebration portrait"
+    ],
+    "date": ""
+  },
+  {
+    "photo_id": "P055",
+    "description": "A close-up vertical shot of a cluster of vibrant pink bougainvillea flowers backlit by warm, golden sunlight.",
+    "location": "",
+    "objects": [
+      "flowers",
+      "leaves",
+      "branches",
+      "stems"
+    ],
+    "people": [],
+    "scene": "A botanical or garden scene focused on a flowering plant under direct, warm light.",
+    "location_clues": [
+      "outdoor",
+      "garden",
+      "nature"
+    ],
+    "text_visible": [],
+    "activities": [
+      "nature photography"
+    ],
+    "search_terms": [
+      "pink flowers",
+      "bougainvillea",
+      "backlit flowers",
+      "golden hour light",
+      "nature close up",
+      "vibrant pink petals",
+      "floral texture"
+    ],
+    "date": ""
+  }
+]
