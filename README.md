@@ -6,7 +6,7 @@ An AI-powered prototype that helps users retrieve photos from a personal collect
 
 Add your deployed Streamlit URL here:
 
-[Open the live prototype](PASTE_YOUR_STREAMLIT_URL_HERE)
+[Open the live prototype](https://photo-retrieval-prototype-byachwgjxnsvdaq9wbpeb2.streamlit.app/)
 
 ## Repository Purpose
 
@@ -329,10 +329,3 @@ This project is an MVP prototype for product discovery and evaluation.
 
 It is intended to test the hypothesis that conversational clarification can help users retrieve vaguely remembered photos from a personal photo collection.
 
-## Author
-
-Add your name here.
-
-## License
-
-Add a license here if required.
