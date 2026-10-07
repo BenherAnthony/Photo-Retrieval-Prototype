@@ -2,7 +2,7 @@
   {
     "photo_id": "P001",
     "description": "A street-level view of a vibrant row of colonial-style buildings with tiled roofs and colorful facades, featuring a balcony with potted plants. Below, cars and motorcycles travel along a paved road.",
-    "location": "",
+    "location": "Bengaluru",
     "objects": [
       "buildings",
       "balconies",
@@ -51,7 +51,7 @@
   {
     "photo_id": "P002",
     "description": "A street scene showing a row of colorful colonial-style buildings painted yellow, blue, green, and orange, with traditional clay tile roofs and a scooter parked on the sidewalk.",
-    "location": "",
+    "location": "Bengaluru",
     "objects": [
       "buildings",
       "scooter",
@@ -90,7 +90,7 @@
   {
     "photo_id": "P003",
     "description": "An older couple sits at a small table on the patio of an outdoor cafe with orange walls and decorative lanterns, looking at their phones.",
-    "location": "",
+    "location": "Italy",
     "objects": [
       "tables",
       "chairs",
@@ -132,7 +132,7 @@
   {
     "photo_id": "P004",
     "description": "A man and a woman sitting at a table outdoors or on a patio, looking at each other and smiling. The man is wearing a black shirt and the woman has long dark hair.",
-    "location": "",
+    "location": "Goa",
     "objects": [
       "table",
       "wooden chair",
@@ -168,7 +168,7 @@
   {
     "photo_id": "P005",
     "description": "A close-up shot of a young man and woman smiling and embracing in front of a white wall with arched wooden windows.",
-    "location": "",
+    "location": "Goa",
     "objects": [
       "wooden arched windows",
       "white wall",
@@ -204,7 +204,7 @@
   {
     "photo_id": "P006",
     "description": "A street scene featuring a woman standing behind a cart loaded with mangoes, dark grapes, and rambutans, with several pedestrians walking by and a white Honda scooter parked in the foreground. Colorful balloons are tied to a large tree behind the vendor.",
-    "location": "",
+    "location": "Bengaluru",
     "objects": [
       "fruit cart",
       "mangoes",
@@ -251,7 +251,7 @@
   {
     "photo_id": "P007",
     "description": "A man with a beard, wearing a color-blocked polo shirt and a watch, drinks from a cup in front of a rack filled with various women's sandals and shoes in an outdoor market setting, with other people standing nearby.",
-    "location": "",
+    "location": "Goa",
     "objects": [
       "shoes",
       "sandals",
@@ -293,7 +293,7 @@
   {
     "photo_id": "P008",
     "description": "Two people sitting on a lit balcony of a multi-story building at night, with signage for a cafe below.",
-    "location": "",
+    "location": "Bengaluru",
     "objects": [
       "balcony",
       "potted plants",
@@ -341,7 +341,7 @@
   {
     "photo_id": "P009",
     "description": "Two men standing on a rooftop patio at sunset, with a cityscape in the background.",
-    "location": "",
+    "location": "Bengaluru",
     "objects": [
       "rooftop structure",
       "tables",
@@ -378,7 +378,7 @@
   {
     "photo_id": "P010",
     "description": "A high-angle view of a densely populated urban area at dusk, featuring a vibrant, multi-colored sunset with pink, purple, and blue clouds over a cityscape filled with apartment buildings and residential rooftops.",
-    "location": "",
+    "location": "Bengaluru",
     "objects": [
       "apartment buildings",
       "rooftops",
@@ -411,7 +411,7 @@
   {
     "photo_id": "P011",
     "description": "A high-angle, black and white view of a busy divided highway featuring heavy traffic on one side and a more sparse flow on the other. Palm trees and apartment-style buildings line the road.",
-    "location": "",
+    "location": "Mumbai",
     "objects": [
       "cars",
       "motorcycles",
@@ -453,7 +453,7 @@
   {
     "photo_id": "P012",
     "description": "A golden statue of a person riding a horse positioned in front of an ornate, historic-style building complex with domes, viewed from behind a dark metal fence.",
-    "location": "",
+    "location": "Bengaluru",
     "objects": [
       "golden statue",
       "horse",
@@ -488,7 +488,7 @@
   {
     "photo_id": "P013",
     "description": "A high-angle view looking over a small lake surrounded by dense trees and urban buildings under a cloudy sky. In the foreground, rooftops are visible, and in the distance, apartment complexes and a tall telecommunications tower stand against the horizon.",
-    "location": "",
+    "location": "Bangalore",
     "objects": [
       "lake",
       "trees",
@@ -526,7 +526,7 @@
   {
     "photo_id": "P014",
     "description": "A night street view filled with elaborate decorative neon and LED street lighting. The scene features a road with cars and an auto-rickshaw in the foreground, with commercial buildings on the right side decorated with bright festive lights. A metal pedestrian barrier lines the right side of the road, and people are walking along the sidewalk.",
-    "location": "",
+    "location": "Bangalore",
     "objects": [
       "auto-rickshaw",
       "car",
@@ -574,7 +574,7 @@
   {
     "photo_id": "P015",
     "description": "A low-angle black and white photograph of a large, symmetrical neo-Dravidian style building with a prominent central dome topped by a sculpture of a four-headed lion emblem. The building has grand stone steps, tall pillars, and a multi-tiered facade.",
-    "location": "",
+    "location": "Banglore",
     "objects": [
       "building",
       "dome",
@@ -610,7 +610,7 @@
   {
     "photo_id": "P016",
     "description": "A street scene framed by large, expansive green trees forming a canopy over the road. Several cars are parked along the sides and driving on the road. A person is walking on the left side of the street, and there are storefront signs on the right.",
-    "location": "",
+    "location": "Goa",
     "objects": [
       "cars",
       "trees",
@@ -648,7 +648,7 @@
   {
     "photo_id": "P017",
     "description": "A tall, ornate temple gopuram or tower, light tan in color, featuring detailed stone carvings of figures and symmetrical architectural elements. A single tall palm tree stands to the left against a clear blue sky. A sign with text is mounted above the temple entrance.",
-    "location": "",
+    "location": "Hampi",
     "objects": [
       "temple tower",
       "palm tree",
@@ -682,7 +682,7 @@
   {
     "photo_id": "P018",
     "description": "A high-angle, wide-shot panoramic view looking down over a vast, flat landscape consisting of scattered small town developments, farmlands, and greenery under an overcast sky.",
-    "location": "",
+    "location": "Hampi",
     "objects": [
       "trees",
       "fields",
@@ -714,7 +714,7 @@
   {
     "photo_id": "P019",
     "description": "A vertical view of high, snow-capped mountains partially illuminated by late afternoon or golden hour light, with dense coniferous forests on the lower slopes and dark, leafless tree silhouettes in the foreground.",
-    "location": "",
+    "location": "Manali",
     "objects": [
       "mountains",
       "snow",
@@ -747,7 +747,7 @@
   {
     "photo_id": "P020",
     "description": "A two-story rustic house with a dark stone-slate roof, partially constructed of wood and stone, nestled in a mountainous landscape with bare trees and stacks of hay.",
-    "location": "",
+    "location": "Manali",
     "objects": [
       "house",
       "stone roof",
@@ -779,7 +779,7 @@
   {
     "photo_id": "P021",
     "description": "A vertical view of a small village nestled on a hillside covered in coniferous trees, partially obscured by heavy mist and low-hanging clouds.",
-    "location": "",
+    "location": "Manali",
     "objects": [
       "buildings",
       "houses",
@@ -813,7 +813,7 @@
   {
     "photo_id": "P022",
     "description": "A vertical view framed by pine tree branches in the foreground, looking out over a deep mountain valley with a town nestled at the bottom and snow-capped peaks in the distance.",
-    "location": "",
+    "location": "Manali",
     "objects": [
       "pine trees",
       "mountains",
@@ -846,7 +846,7 @@
   {
     "photo_id": "P023",
     "description": "A view of a coffee shop counter with a light blue distressed wall, an espresso machine, and shelves stocked with snacks and drinks.",
-    "location": "",
+    "location": "Manali",
     "objects": [
       "espresso machine",
       "coffee grinder",
@@ -892,7 +892,7 @@
   {
     "photo_id": "P024",
     "description": "An empty, dimly lit coffee shop interior with wooden chairs, marble-topped round tables, a brick wall, and a large handwritten menu board above the service counter.",
-    "location": "",
+    "location": "Goa",
     "objects": [
       "wooden chairs",
       "round marble-topped tables",
@@ -939,7 +939,7 @@
   {
     "photo_id": "P025",
     "description": "An airy, sunlit cafe seating area with a checkerboard floor in white and gold tiles, featuring multiple arched windows, wooden-framed chairs with purple patterned cushions, and large potted plants.",
-    "location": "",
+    "location": "Goa",
     "objects": [
       "checkerboard floor",
       "arched windows",
@@ -977,7 +977,7 @@
   {
     "photo_id": "P026",
     "description": "An interior shot of a cafe or lounge area with a white brick wall, wooden furniture, and a large dog lying on the floor in the foreground. Two people are sitting on a couch in the background, facing each other.",
-    "location": "",
+    "location": "Goa",
     "objects": [
       "wooden chairs",
       "couch",
@@ -1105,7 +1105,7 @@
   {
     "photo_id": "P030",
     "description": "A close-up, side-profile view of a fluffy, black and white husky-type dog lying down on a soft, light-colored surface and eating a whole carrot.",
-    "location": "",
+    "location": "Goa",
     "objects": [
       "dog",
       "carrot",
@@ -1130,7 +1130,7 @@
   {
     "photo_id": "P031",
     "description": "A close-up view of the front corner of a grey vintage car, focusing on the headlight assembly, chrome bumper, and a small round auxiliary lamp.",
-    "location": "",
+    "location": "Goa",
     "objects": [
       "car",
       "headlight",
@@ -1161,7 +1161,7 @@
   {
     "photo_id": "P032",
     "description": "A cream-colored vintage Fiat sedan parked on a grassy strip next to a road under a bright blue sky.",
-    "location": "",
+    "location": "Goa",
     "objects": [
       "vintage car",
       "Fiat sedan",
@@ -1192,7 +1192,7 @@
   {
     "photo_id": "P033",
     "description": "A bright red vintage sedan car parked on a paved road surrounded by dense, tall trees with autumn-toned foliage, lit by sunlight filtering through the branches.",
-    "location": "",
+    "location": "Bangalore",
     "objects": [
       "vintage car",
       "sedan",
@@ -1293,7 +1293,7 @@
   {
     "photo_id": "P036",
     "description": "A black and white, eye-level portrait taken in a mirror reflection showing a person holding a camera up to their face to take a picture.",
-    "location": "",
+    "location": "Hampi",
     "objects": [
       "camera",
       "lens",
@@ -1549,7 +1549,7 @@
   {
     "photo_id": "P043",
     "description": "A long-exposure night view of a modern city skyline with illuminated skyscrapers reflecting across a body of water in the foreground.",
-    "location": "",
+    "location": "Qatar",
     "objects": [
       "skyscrapers",
       "buildings",
@@ -1580,7 +1580,7 @@
   {
     "photo_id": "P044",
     "description": "A view of a marina with luxury yachts docked in the foreground during sunset, with a series of tall, tan-colored residential buildings in the background.",
-    "location": "",
+    "location": "Qatar",
     "objects": [
       "yacht",
       "catamaran",
@@ -1615,7 +1615,7 @@
   {
     "photo_id": "P045",
     "description": "A view framed by a dark stone archway looking out onto a bright, open public square. People are walking across the square, and in the background, there is a prominent cluster of modern skyscrapers. Traditional-style lanterns hang from the archway.",
-    "location": "",
+    "location": "Qatar",
     "objects": [
       "archway",
       "lanterns",
@@ -1652,7 +1652,7 @@
   {
     "photo_id": "P046",
     "description": "A street-level view looking down a pedestrian path in an open-air market or bazaar with light-colored, traditional stone buildings on both sides. Several people are walking through the market.",
-    "location": "",
+    "location": "Qatar",
     "objects": [
       "stone buildings",
       "thatched roof awning",
@@ -1974,7 +1974,7 @@
   {
     "photo_id": "P055",
     "description": "A close-up vertical shot of a cluster of vibrant pink bougainvillea flowers backlit by warm, golden sunlight.",
-    "location": "",
+    "location": "Bengaluru",
     "objects": [
       "flowers",
       "leaves",
