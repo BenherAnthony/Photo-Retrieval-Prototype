@@ -845,6 +845,16 @@ def contains_value(row, columns, term):
             "bedroom",
             "living room"
         ],
+        "Bengaluru": [
+            "Bangalore",
+            "Bengaluru",
+            "Banglore"
+        ],
+        "Bangalore": [
+            "Bangalore",
+            "Bengaluru",
+            "Banglore"
+        ],
         "outdoors": [
             "outdoor",
             "outdoors",
